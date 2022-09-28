@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="145b3bfd-b8f5-40ad-acf3-7570e491229a" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2CFfBD5VFgeBl7z0d7kdSYJvBvn" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2019.2.4\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\hp\OneDrive\Desktop\FORM FRONTEND  AND BACKEND EDIT AND DELETE\react\public" />
+      <recent name="C:\Users\hp\OneDrive\Desktop\FORM FRONTEND  AND BACKEND EDIT AND DELETE\react\src\videos" />
+      <recent name="C:\Users\hp\OneDrive\Desktop\FORM FRONTEND  AND BACKEND EDIT AND DELETE\react\src" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\hp\OneDrive\Desktop\FORM FRONTEND  AND BACKEND EDIT AND DELETE\react" />
+      <recent name="C:\Users\hp\OneDrive\Desktop\FORM FRONTEND  AND BACKEND EDIT AND DELETE\react\public" />
+      <recent name="C:\Users\hp\OneDrive\Desktop\New folder\react\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="145b3bfd-b8f5-40ad-acf3-7570e491229a" name="Default Changelist" comment="" />
+      <created>1658403116406</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1658403116406</updated>
+      <workItem from="1658403119486" duration="7076000" />
+      <workItem from="1658468442783" duration="24034000" />
+      <workItem from="1658554581799" duration="2852000" />
+      <workItem from="1658916522627" duration="5908000" />
+      <workItem from="1659368440437" duration="1340000" />
+      <workItem from="1660730533572" duration="4250000" />
+      <workItem from="1660739539471" duration="1153000" />
+      <workItem from="1662027632107" duration="74000" />
+      <workItem from="1662031256626" duration="247000" />
+      <workItem from="1662042749868" duration="3018000" />
+      <workItem from="1662530291284" duration="13674000" />
+      <workItem from="1662562083732" duration="5836000" />
+      <workItem from="1662616070850" duration="20869000" />
+      <workItem from="1662789767305" duration="3938000" />
+      <workItem from="1662799340684" duration="5292000" />
+      <workItem from="1662811572983" duration="2040000" />
+      <workItem from="1662963281621" duration="4559000" />
+      <workItem from="1662973629184" duration="11206000" />
+      <workItem from="1662985849445" duration="3559000" />
+      <workItem from="1662993625531" duration="2636000" />
+      <workItem from="1662998669878" duration="963000" />
+      <workItem from="1663047806409" duration="19285000" />
+      <workItem from="1663135028551" duration="15097000" />
+      <workItem from="1663161367077" duration="835000" />
+      <workItem from="1663220520444" duration="16523000" />
+      <workItem from="1663252207306" duration="2238000" />
+      <workItem from="1663306196327" duration="11757000" />
+      <workItem from="1663342276724" duration="1404000" />
+      <workItem from="1663473843887" duration="1161000" />
+      <workItem from="1663485572309" duration="19036000" />
+      <workItem from="1663651679739" duration="21454000" />
+      <workItem from="1663690059487" duration="85000" />
+      <workItem from="1663738727470" duration="6612000" />
+      <workItem from="1663749351257" duration="14687000" />
+      <workItem from="1663774454629" duration="3808000" />
+      <workItem from="1663824657233" duration="4380000" />
+      <workItem from="1663835732763" duration="16503000" />
+      <workItem from="1663857500893" duration="926000" />
+      <workItem from="1663911225742" duration="17184000" />
+      <workItem from="1663998644437" duration="4807000" />
+      <workItem from="1664170340226" duration="22034000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

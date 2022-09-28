@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="af294899-442f-4e80-9c23-3529b41fb94d" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="2ENleJo8T9aLACuvVlgIgamomDc" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2019.2.4\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\hp\OneDrive\Desktop\FORM FRONTEND  AND BACKEND EDIT AND DELETE\node" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\hp\OneDrive\Desktop\FORM FRONTEND  AND BACKEND EDIT AND DELETE\node\middleware" />
+      <recent name="C:\Users\hp\OneDrive\Desktop\FORM FRONTEND  AND BACKEND EDIT AND DELETE\node\middlewer" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="test#1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" path="$PROJECT_DIR$/test.http">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="af294899-442f-4e80-9c23-3529b41fb94d" name="Default Changelist" comment="" />
+      <created>1662444017320</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1662444017320</updated>
+      <workItem from="1662444020244" duration="1459000" />
+      <workItem from="1662445507256" duration="409000" />
+      <workItem from="1662446074320" duration="8099000" />
+      <workItem from="1662457444099" duration="5179000" />
+      <workItem from="1662465369753" duration="3759000" />
+      <workItem from="1662529842800" duration="20991000" />
+      <workItem from="1662562072507" duration="6249000" />
+      <workItem from="1662616060033" duration="15834000" />
+      <workItem from="1662789742184" duration="4215000" />
+      <workItem from="1662799322375" duration="5535000" />
+      <workItem from="1662811494090" duration="2582000" />
+      <workItem from="1662963272541" duration="6891000" />
+      <workItem from="1662973611680" duration="11861000" />
+      <workItem from="1662985882498" duration="3247000" />
+      <workItem from="1662993614232" duration="2644000" />
+      <workItem from="1662998649301" duration="986000" />
+      <workItem from="1663047798524" duration="22494000" />
+      <workItem from="1663134996442" duration="20532000" />
+      <workItem from="1663161362974" duration="705000" />
+      <workItem from="1663220482105" duration="24140000" />
+      <workItem from="1663252201332" duration="2245000" />
+      <workItem from="1663306192030" duration="22627000" />
+      <workItem from="1663342248705" duration="2851000" />
+      <workItem from="1663473824285" duration="2707000" />
+      <workItem from="1663485570232" duration="17518000" />
+      <workItem from="1663651675708" duration="12207000" />
+      <workItem from="1663738719452" duration="2345000" />
+      <workItem from="1663749343779" duration="10142000" />
+      <workItem from="1663774444464" duration="4677000" />
+      <workItem from="1663824648045" duration="5849000" />
+      <workItem from="1663835730801" duration="14042000" />
+      <workItem from="1663857494710" duration="1944000" />
+      <workItem from="1663911142477" duration="21621000" />
+      <workItem from="1663998617987" duration="6003000" />
+      <workItem from="1664170309445" duration="7643000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
